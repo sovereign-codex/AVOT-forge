@@ -1,6 +1,6 @@
-# 🌀 AVOT-core Engine
+# 🌀 AVOT-Forge
 
-AVOT-core is the Agent Forge for the Sovereign Intelligence lattice. It tracks the canonical AVOT roster, documents guardrails, and ships a lightweight Python package for loading manifests and simulating agents. The forge connects directly to **SIB-core** so governance and orchestration flows can request and route AVOTs by id.
+Agent Forge for the Sovereign Intelligence lattice tracks the canonical AVOT roster, documents guardrails, and ships a lightweight Python package for loading manifests and simulating agents. The forge connects directly to **SIB-core** so governance and orchestration flows can request and route AVOTs by id.
 
 ## What’s inside
 - `AVOT-core/` — manifests, registry, and playbooks for every AVOT tracked by the forge.
